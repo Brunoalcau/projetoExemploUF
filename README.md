@@ -6,15 +6,23 @@ Projeto para aprender a criar teste de unidade e funcional do angularjs.
 Pré-Requisito
 ==================================
 Ter instalado:
-node.js  (linux install apt-get, mac brew) verison:>=10.26 [node](https://nodejs.org/).
+node.js  (linux install apt-get, mac brew) verison:>=10.26 .
 NPM é o nome reduzido de Node Package Manager 
 
-npm install grunt-cli -g [gruntjs](http://gruntjs.com/).
-npm install yeoman [yeoman] -g (http://yeoman.io/).
-npm install -g bower [bowerjs] (http://bower.io/). 
-==================================
+```
+npm install grunt-cli -g .
+npm install yeoman  -g  .
+npm install bower -g .
+```
 
-download do projeto e dependepências 
+Referencia
+==================================
+[Node](https://nodejs.org/).
+[Grunt](http://gruntjs.com/).
+[Bower](http://bower.io/).
+[Yeoman](http://yeoman.io/).
+
+Download do projeto e dependepências 
 ==================================
 1 - Clone o projeto.
 2 - Na linha de comando entre na pasta do projeto e execute o comando 
