@@ -15,13 +15,6 @@ npm install yeoman  -g  .
 npm install bower -g .
 ```
 
-Referencia
-==================================
- - [Node](https://nodejs.org/).
- - [Grunt](http://gruntjs.com/).
- - [Bower](http://bower.io/).
- - [Yeoman](http://yeoman.io/).
-
 Download do projeto e dependepências 
 ==================================
 - 1 - Clone o projeto.
@@ -36,6 +29,11 @@ Na pasta raiz do projeto execute os comandos:
   - grunt karma:unit --> teste de unidade 
   - grunt protractor --> em configuração.
 
-
+Referencia
+==================================
+ - [Node](https://nodejs.org/).
+ - [Grunt](http://gruntjs.com/).
+ - [Bower](http://bower.io/).
+ - [Yeoman](http://yeoman.io/).
 
 
